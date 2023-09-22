@@ -5,7 +5,7 @@
  * @info: the Structure containing arguments.
  * Return: exit (0) if info.argv[0] != "exit"
  */
-kint _myexit(info_t *info)
+int _myexit(info_t *info)
 {
 int exitcheck;
 

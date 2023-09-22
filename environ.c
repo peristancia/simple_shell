@@ -1,4 +1,4 @@
-#iinclude "shell.h"
+#include "shell.h"
 
 /**
  * _myenv - this prints the current environ
